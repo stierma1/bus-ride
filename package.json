@@ -1,0 +1,22 @@
+{
+  "name": "bus-ride",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/bus-ride.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/bus-ride/issues"
+  },
+  "homepage": "https://github.com/stierma1/bus-ride#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
